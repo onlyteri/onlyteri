@@ -18,7 +18,7 @@
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Bot related things and tech in general on [Discord](https://dsc.gg/codexdev).
+- Your future buddy to discuss Bot related things and tech in general on Discord.
 - My Discord Id **__onlyteri__**
 - And of course GitHub you're already on (Recursion).
 
